@@ -1,4 +1,4 @@
-const theme = _Blockly.getMainWorkspace().getheme();
+const theme = _Blockly.getMainWorkspace().getTheme();
 
 const component = theme.componentStyles
 
