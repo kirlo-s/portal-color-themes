@@ -122,8 +122,24 @@ block["control-block-alt-style"] = {
 
 category = theme.categoryStyles
 
-category["rules-category"]
+category["rules-category"] = {
+    colour: "#b45ac7"
+}
 
+category["values-category"] = {
+    colour: "#1d8c58"
+}
+
+category["subroutines-category"] = {
+    colour: "#bd6222"
+}
+
+category["actions-category"] = {
+    colour: "#b7a11c"
+}
+category["controls-category"] = {
+    colour: "#5939e6"
+}
 
 
 _Blockly.getMainWorkspace().setTheme(theme);

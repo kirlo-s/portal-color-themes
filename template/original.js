@@ -8,4 +8,9 @@
     "subroutine-block-style": { colourPrimary: "#622c07", colourSecondary: "#0a0a0a", colourTertiary: "#461e02", hat: "false" },
      "control-block-style": { colourPrimary: "#351f95", colourSecondary: "#0a0a0a", colourTertiary: "#351f95", hat: "false" },
       "control-block-alt-style": { colourPrimary: "#2b1b71", colourSecondary: "#0a0a0a", colourTertiary: "#2b1b71", hat: "false" } }, 
-    categoryStyles: { "rules-category": { colour: "#b45ac7" }, "values-category": { colour: "#1d8c58" }, "subroutines-category": { colour: "#bd6222" }, "actions-category": { colour: "#b7a11c" }, "controls-category": { colour: "#5939e6" } } })
+    categoryStyles: { "rules-category": { colour: "#b45ac7" }, 
+    "values-category": { colour: "#1d8c58" }, 
+    "subroutines-category": { colour: "#bd6222" }, 
+    "actions-category": { colour: "#b7a11c" }, 
+    "controls-category": { colour: "#5939e6" } 
+} })

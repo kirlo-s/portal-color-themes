@@ -19,6 +19,6 @@ const category = theme.categoryStyles
 category["rules-category"] = {
     colour: "#847000"
 }
-    
+
 
 _Blockly.getMainWorkspace().setTheme(theme);
