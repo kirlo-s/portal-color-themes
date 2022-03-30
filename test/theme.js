@@ -4,7 +4,8 @@ const theme = _Blockly.getMainWorkspace().getTheme();
 
 const component = theme.componentStyles
 
-component.fieldEditableTextHoverColor = "#FF7F50"
+component.wsSearchHighlightCurrentColor = "#FF7F50"
+component.wsSearchHighlightGroupColor = "#00FF00"
 
 const block = theme.blockStyles
 
