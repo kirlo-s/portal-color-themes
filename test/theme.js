@@ -2,7 +2,7 @@ const theme = _Blockly.getMainWorkspace().getTheme();
 
 const component = theme.componentStyles
 
-component.ruleBlockRuleConnectionColor = "#ffffff"
+component.ruleBlockRuleConnectionColor = "#00ff00"
 
 const block = theme.blockStyles
 
