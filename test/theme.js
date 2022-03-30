@@ -4,8 +4,8 @@ const theme = _Blockly.getMainWorkspace().getTheme();
 
 const component = theme.componentStyles
 
-component.flyoutForegroundColour = "ffa500"
-component.flyoutOpacity = 0.1
+component.insertionMarkerColour	 = "#ffa500"
+
 
 const block = theme.blockStyles
 
