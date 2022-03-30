@@ -4,8 +4,8 @@ const theme = _Blockly.getMainWorkspace().getTheme();
 
 const component = theme.componentStyles
 
-component.replacementGlowColour = "#ffffff"
-component.replacementGlowOpacity = 1
+component.fieldBorderRectColor = "#161d1e"
+component.fieldTextColor = "#ffffff"
 
 const block = theme.blockStyles
 
