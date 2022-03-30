@@ -3,6 +3,6 @@ const theme = _Blocky.getMainWorkspace().getheme();
 const component = theme.componentStyles
 
 component.workspaceBackgroundColour = "rgba(0,0,0,1)"
-component.toolboxBackgroundColour = "rgba(0,0,0,0.5)"
+component.toolboxBackgroundColour = "rgba(255,255,255,0.5)"
 
 _Blocky.getMainWorkspace().setTheme(theme);
