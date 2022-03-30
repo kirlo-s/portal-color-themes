@@ -1,0 +1,8 @@
+{
+    "id": "portal-color-change-test",
+    "name": "Portal theme test",
+    "version": "0.1",
+    "description": "template of color theme",
+    "author": "Kirlo_s",
+    "main": "theme.js"
+}
