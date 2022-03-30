@@ -1,5 +1,4 @@
-console.log(typeof theme)
-if(theme === undefined){
+if(typeof theme == "undefined"){
 const theme = _Blockly.getMainWorkspace().getTheme();
 }
 
