@@ -2,10 +2,7 @@ const theme = _Blockly.getMainWorkspace().getTheme();
 
 const component = theme.componentStyles
 
-component.blockErrorPatternFillColor ="#ffffff"
-component.blockErrorPatternStrokeColor = "#ffffff"
-component.blockErrorHighlightStrokeColor = "#ffffff"
-component.blockDisablePatternFillColor = "rgba(0,0,255,1)"
+component.ruleBlockRuleTextColor = "#000000"
 
 const block = theme.blockStyles
 
