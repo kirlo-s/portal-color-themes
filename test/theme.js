@@ -4,8 +4,9 @@ const theme = _Blockly.getMainWorkspace().getTheme();
 
 const component = theme.componentStyles
 
-component.blockDisablePatternFillColor = "rgba(255,255,255,1)"
-component.blockDisablePatternStrokeColor = "#F8D7DA"
+component.blockErrorPatternFillColor ="#ffffff"
+component.blockErrorPatternStrokeColor = "#ffffff"
+component.blockErrorHighlightStrokeColor = "#ffffff"
 
 const block = theme.blockStyles
 
