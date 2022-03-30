@@ -4,6 +4,8 @@ const component = theme.componentStyles
 
 component.ruleBlockConditionTextColor = "#000000"
 component.ruleBlockConditionConnectionColor = "#00ff00"
+component.ruleBlockActionTextColor = "#000000"
+component.ruleBlockActionConnectionColor = "#0000ff"
 
 const block = theme.blockStyles
 
