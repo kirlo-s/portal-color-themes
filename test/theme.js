@@ -4,8 +4,8 @@ const theme = _Blockly.getMainWorkspace().getTheme();
 
 const component = theme.componentStyles
 
-component.wsSearchHighlightCurrentColor = "#FF7F50"
-component.wsSearchHighlightGroupColor = "#00FF00"
+component.blockDisablePatternFillColor = "rgba(255,255,255,0.5)"
+component.blockDisablePatternStrokeColor = "#F8D7DA"
 
 const block = theme.blockStyles
 
