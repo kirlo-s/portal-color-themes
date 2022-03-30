@@ -11,6 +11,7 @@ component.blockDisablePatternFillColor = "rgba(0,0,255,1)"
 
 const block = theme.blockStyles
 
+
 block["mod-block-style"] = { 
     colourPrimary:"#ffffff",
     colourSecondary:"#0a0a0a",
