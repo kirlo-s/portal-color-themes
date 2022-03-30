@@ -7,6 +7,7 @@ const component = theme.componentStyles
 component.blockErrorPatternFillColor ="#ffffff"
 component.blockErrorPatternStrokeColor = "#ffffff"
 component.blockErrorHighlightStrokeColor = "#ffffff"
+component.blockDisablePatternFillColor = "rgba(0,0,255,1)"
 
 const block = theme.blockStyles
 
