@@ -47,4 +47,7 @@ component.actionsCategoryColor = "#b7a11c"
 component.controlsCategoryColor = "#2a90d0"
 
 
+
+
+
 _Blockly.getMainWorkspace().setTheme(theme);
