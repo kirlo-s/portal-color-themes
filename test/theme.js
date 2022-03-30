@@ -1,5 +1,6 @@
+console.log(typeof theme)
 if(typeof theme == "undefined"){
-const theme = _Blockly.getMainWorkspace().getTheme();
+    const theme = _Blockly.getMainWorkspace().getTheme();
 }
 
 const component = theme.componentStyles
