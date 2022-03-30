@@ -4,7 +4,7 @@ const theme = _Blockly.getMainWorkspace().getTheme();
 
 const component = theme.componentStyles
 
-component.insertionMarkerColour	 = "#ffa500"
+component.markerColour	 = "#ffa500"
 
 
 const block = theme.blockStyles
