@@ -47,6 +47,79 @@ component.actionsCategoryColor = "#b7a11c"
 component.controlsCategoryColor = "#2a90d0"
 
 
+const block = theme.blockStyles
+
+block["mod-block-style"] = {
+    colourPrimary: "#222b2d",
+    colourSecondary: "#0a0a0a",
+    colourTertiary: "#161d1e",
+    hat: "false"
+}
+
+block["rule-block-style"] = { 
+    colourPrimary: "#682177", 
+    colourSecondary: "#0a0a0a", 
+    colourTertiary: "#390f42", 
+    hat: "false" 
+}
+
+block["condition-block-style"] = { 
+    colourPrimary: "#0a4f78", 
+    colourSecondary: "#0a0a0a", 
+    colourTertiary: "#003a5d", 
+    hat: "false" 
+}
+
+block["value-block-style"] = { 
+    colourPrimary: "#0f5736", 
+    colourSecondary: "#0a0a0a", 
+    colourTertiary: "#033d23", 
+    hat: "false" 
+}
+
+block["action-block-style"] = { 
+    colourPrimary: "#847000", 
+    colourSecondary: "#0a0a0a", 
+    colourTertiary: "#493e00", 
+    hat: "false" 
+}
+
+block["comment-block-style"] = { 
+    colourPrimary: "#141414", 
+    colourSecondary: "#0a0a0a", 
+    colourTertiary: "#141414", 
+    hat: "false" 
+}
+
+block["variable-block-style"] = { 
+    colourPrimary: "#0f5736", 
+    colourSecondary: "#0a0a0a", 
+    colourTertiary: "#033d23", 
+    hat: "false" 
+}
+
+block["subroutine-block-style"] = { 
+    colourPrimary: "#622c07", 
+    colourSecondary: "#0a0a0a", 
+    colourTertiary: "#461e02", 
+    hat: "false" 
+}
+
+block["control-block-style"] = { 
+    colourPrimary: "#351f95", 
+    colourSecondary: "#0a0a0a", 
+    colourTertiary: "#351f95", 
+    hat: "false" 
+}
+
+ block["control-block-alt-style"] = { 
+     colourPrimary: "#2b1b71", 
+     colourSecondary: "#0a0a0a", 
+     colourTertiary: "#2b1b71", 
+     hat: "false" 
+}
+
+
 
 
 
