@@ -112,7 +112,7 @@ block["control-block-style"] = {
     hat: "false" 
 }
 
- block["control-block-alt-style"] = { 
+block["control-block-alt-style"] = { 
      colourPrimary: "#2b1b71", 
      colourSecondary: "#0a0a0a", 
      colourTertiary: "#2b1b71", 
@@ -120,6 +120,9 @@ block["control-block-style"] = {
 }
 
 
+category = theme.categoryStyles
+
+category["rules-category"]
 
 
 
