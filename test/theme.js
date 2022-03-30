@@ -4,9 +4,7 @@ const theme = _Blockly.getMainWorkspace().getTheme();
 
 const component = theme.componentStyles
 
-component.fieldDropDownTextColor	 = "#000000"
-component.fieldDropDownHighlightColor	 = "#ffffff"
-component.fieldDropDownTextHighlightColor = "#f0f8ff"
+component.fieldEditableTextHoverColor = "#FF7F50"
 
 const block = theme.blockStyles
 
