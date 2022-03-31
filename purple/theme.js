@@ -141,6 +141,4 @@ category["controls-category"] = {
     colour: "#5939e6"
 }
 
-
-
 _Blockly.getMainWorkspace().setTheme(theme);
