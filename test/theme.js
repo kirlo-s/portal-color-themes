@@ -11,7 +11,7 @@ block["variable-block-style"] = {
     colourPrimary:"#ff0000",
     colourSecondary:"#00ff00",
     colourTertiary:"#0000ff",
-    hat:"false"
+    hat:"true"
     }
 
 const category = theme.categoryStyles
