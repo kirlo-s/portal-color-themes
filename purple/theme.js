@@ -71,9 +71,9 @@ block["condition-block-style"] = {
 }
 
 block["value-block-style"] = { 
-    colourPrimary: "#62A140", 
-    colourSecondary: "#426D2B", 
-    colourTertiary: "#426D2B", 
+    colourPrimary: "#008828", 
+    colourSecondary: "#005519", 
+    colourTertiary: "#005519", 
     hat: "false" 
 }
 
@@ -127,7 +127,7 @@ category["rules-category"] = {
 }
 
 category["values-category"] = {
-    colour: "#62A140"
+    colour: "#008828"
 }
 
 category["subroutines-category"] = {
