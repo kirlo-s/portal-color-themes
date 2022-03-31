@@ -25,7 +25,7 @@ component.fieldDropDownTextHighlightColor = "#ffffff"
 component.fieldEditableTextHoverColor = "#439CFE"
 component.wsSearchHighlightCurrentColor = "#439CFE"
 component.wsSearchHighlightGroupColor = "#ffffff"
-component.blockDisablePatternFillColor = "rgba(20,20,20,0.66)"
+component.blockDisablePatternFillColor = "rgba(20,20,20,0.7)"
 component.blockDisablePatternStrokeColor = "#F92BA7"
 component.blockErrorPatternFillColor = "#141414"
 component.blockErrorPatternStrokeColo = "#aa2b3f"
@@ -92,9 +92,9 @@ block["comment-block-style"] = {
 }
 
 block["variable-block-style"] = { 
-    colourPrimary: "#EB0042", 
+    colourPrimary: "#C33321", 
     colourSecondary: "#0a0a0a", 
-    colourTertiary: "#B70033", 
+    colourTertiary: "#902518", 
     hat: "false" 
 }
 
