@@ -1,0 +1,8 @@
+{
+    "id": "portal-color-change-original",
+    "name": "Portal theme original",
+    "version": "1.0.0",
+    "description": "original color theme",
+    "author": "Kirlo_s",
+    "main": "theme.js"
+}

@@ -1,8 +1,0 @@
-{
-    "id": "portal-color-theme-light",
-    "name": "Portal theme Light",
-    "version": "0.1.0",
-    "description": "Light color theme",
-    "author": "Kirlo_s",
-    "main": "theme.js"
-}
