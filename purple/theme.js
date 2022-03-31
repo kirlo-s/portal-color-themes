@@ -50,9 +50,9 @@ component.controlsCategoryColor = "#2a90d0"
 const block = theme.blockStyles
 
 block["mod-block-style"] = {
-    colourPrimary: "#222b2d",
-    colourSecondary: "#0a0a0a",
-    colourTertiary: "#161d1e",
+    colourPrimary: "#737373",
+    colourSecondary: "#404040",
+    colourTertiary: "#404040",
     hat: "false"
 }
 
