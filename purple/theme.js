@@ -17,7 +17,7 @@ component.cursorColour = "#d0d0d0"
 component.selectedGlowColour = "#26FFFB"
 component.selectedGlowOpacity = 1
 component.replacementGlowOpacity = .5
-component.fieldBorderRectColor = "#a8a8a8"
+component.fieldBorderRectColor = "#ffffff"
 component.fieldTextColor = "#000000"
 component.fieldDropdownTextColor = "#ffffff"
 component.fieldDropDownHighlightColor = "#26FFFB"
@@ -92,9 +92,9 @@ block["comment-block-style"] = {
 }
 
 block["variable-block-style"] = { 
-    colourPrimary: "#C7243A", 
-    colourSecondary: "#931A2B", 
-    colourTertiary: "#931A2B", 
+    colourPrimary: "#931A2B", 
+    colourSecondary: "#5F101C", 
+    colourTertiary: "#5F101C", 
     hat: "false" 
 }
 
