@@ -71,16 +71,16 @@ block["condition-block-style"] = {
 }
 
 block["value-block-style"] = { 
-    colourPrimary: "#33512F", 
-    colourSecondary: "#294327", 
-    colourTertiary: "#294327", 
+    colourPrimary: "#0F5736", 
+    colourSecondary: "#062416", 
+    colourTertiary: "#062416", 
     hat: "false" 
 }
 
 block["action-block-style"] = { 
-    colourPrimary: "#88864F", 
-    colourSecondary: "#555331", 
-    colourTertiary: "#555331", 
+    colourPrimary: "#847000", 
+    colourSecondary: "#514400", 
+    colourTertiary: "#514400", 
     hat: "false" 
 }
 
@@ -127,7 +127,7 @@ category["rules-category"] = {
 }
 
 category["values-category"] = {
-    colour: "#33512F"
+    colour: "#0F5736"
 }
 
 category["subroutines-category"] = {
@@ -135,7 +135,7 @@ category["subroutines-category"] = {
 }
 
 category["actions-category"] = {
-    colour: "#88864F"
+    colour: "#847000"
 }
 category["controls-category"] = {
     colour: "#4D96FF"
