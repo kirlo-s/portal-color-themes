@@ -1,0 +1,8 @@
+{
+    "id": "portal-color-change-dark",
+    "name": "Portal theme dark",
+    "version": "0.1.0",
+    "description": "color theme",
+    "author": "Kirlo_s",
+    "main": "theme.js"
+}
