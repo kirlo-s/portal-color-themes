@@ -17,7 +17,7 @@ block["variable-block-style"] = {
 const category = theme.categoryStyles
 
 category["rules-category"] = {
-    colour: "#847000"
+    colour: "#000000"
 }
 
 
