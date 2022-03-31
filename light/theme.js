@@ -3,9 +3,9 @@ const theme = _Blockly.getMainWorkspace().getTheme();
 const component = theme.componentStyles
 
 component.workspaceBackgroundColour = "rgb(250,250,250,1)"
-component.toolboxBackgroundColour = "rgb(234, 234, 235,1)"
+component.toolboxBackgroundColour = "#838383"
 component.toolboxForegroundColour = "#616161"
-component.flyoutBackgroundColour = "#2D2D2D"
+component.flyoutBackgroundColour = "#B7B7B7"
 component.flyoutForegroundColour = "#616161"
 component.flyoutOpacity = 0.8
 component.scrollbarColour = "#A2A7B0"
