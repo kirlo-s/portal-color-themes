@@ -2,7 +2,8 @@ const theme = _Blockly.getMainWorkspace().getTheme();
 
 const component = theme.componentStyles
 
-component.flyoutBackgroundColour = "#ffffff"
+component.markerColour = "#ffffff"
+component.cursorColour = "#ffffff"
 
 const block = theme.blockStyles
 

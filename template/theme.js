@@ -1,13 +1,19 @@
-const theme = _Blockly.getMainWorkspace().getTheme();
+//細かく決めたいならコメントアウトする
+toolBoxTexts = "#ffffff"
 
+
+
+
+
+const theme = _Blockly.getMainWorkspace().getTheme();
 
 const component = theme.componentStyles
 
 component.workspaceBackgroundColour = "rgba(0,0,0,0)"
 component.toolboxBackgroundColour = "rgba(30,39,40,0.8)"
-component.toolboxForegroundColour = "#ffffff"
+component.toolboxForegroundColour = toolBoxTexts
 component.flyoutBackgroundColour = "#0a0a0a"
-component.flyoutForegroundColour = "#ffffff"
+component.flyoutForegroundColour = toolBoxTexts
 component.flyoutOpacity = 1
 component.scrollbarColour = "#ffffff"
 component.scrollbarOpacity = 0.5
