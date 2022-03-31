@@ -2,8 +2,13 @@ const theme = _Blockly.getMainWorkspace().getTheme();
 
 const component = theme.componentStyles
 
+<<<<<<< HEAD
 component.cursorColour = "#ffffff"
 component.markerColour = "#ffffff"
+=======
+component.markerColour = "#ffffff"
+component.cursorColour = "#ffffff"
+>>>>>>> main
 
 const block = theme.blockStyles
 
