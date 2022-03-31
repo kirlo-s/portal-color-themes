@@ -57,30 +57,30 @@ block["mod-block-style"] = {
 }
 
 block["rule-block-style"] = { 
-    colourPrimary: "#004EAF", 
-    colourSecondary: "#00377C", 
-    colourTertiary: "#00377C", 
+    colourPrimary: "#A560E8", 
+    colourSecondary: "#804AB4", 
+    colourTertiary: "#804AB4", 
     hat: "false" 
 }
 
 block["condition-block-style"] = { 
-    colourPrimary: "#0a4f78", 
+    colourPrimary: "#FAA918", 
     colourSecondary: "#0a0a0a", 
     colourTertiary: "#003a5d", 
     hat: "false" 
 }
 
 block["value-block-style"] = { 
-    colourPrimary: "#057855", 
-    colourSecondary: "#036B4A", 
-    colourTertiary: "#036B4A", 
+    colourPrimary: "#7AC70C", 
+    colourSecondary: "#5A9308", 
+    colourTertiary: "#5A9308", 
     hat: "false" 
 }
 
 block["action-block-style"] = { 
-    colourPrimary: "#FFA500", 
-    colourSecondary: "#CC8400", 
-    colourTertiary: "#CC8400", 
+    colourPrimary: "#FAA918", 
+    colourSecondary: "#C68613", 
+    colourTertiary: "#C68613", 
     hat: "false" 
 }
 
@@ -106,9 +106,9 @@ block["subroutine-block-style"] = {
 }
 
 block["control-block-style"] = { 
-    colourPrimary: "#00A5DC", 
-    colourSecondary: "#007EA9", 
-    colourTertiary: "#007EA9", 
+    colourPrimary: "#1CB0F6", 
+    colourSecondary: "#168BC3", 
+    colourTertiary: "#168BC3", 
     hat: "false" 
 }
 
@@ -123,11 +123,11 @@ block["control-block-alt-style"] = {
 category = theme.categoryStyles
 
 category["rules-category"] = {
-    colour: "#004EAF"
+    colour: "#A560E8"
 }
 
 category["values-category"] = {
-    colour: "#057855"
+    colour: "#7AC70C"
 }
 
 category["subroutines-category"] = {
@@ -135,10 +135,10 @@ category["subroutines-category"] = {
 }
 
 category["actions-category"] = {
-    colour: "#FFA500"
+    colour: "#FAA918"
 }
 category["controls-category"] = {
-    colour: "#00A5DC"
+    colour: "#1CB0F6"
 }
 
 
