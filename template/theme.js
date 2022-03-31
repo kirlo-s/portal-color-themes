@@ -113,9 +113,9 @@ block["subroutine-block-style"] = {
 }
 
 block["control-block-style"] = { 
-    colourPrimary: "#351f95", 
-    colourSecondary: "#0a0a0a", 
-    colourTertiary: "#351f95", 
+    colourPrimary: "#4261B3", 
+    colourSecondary: "#2F4580", 
+    colourTertiary: "#2F4580", 
     hat: "false" 
 }
 
@@ -145,7 +145,7 @@ category["actions-category"] = {
     colour: "#b7a11c"
 }
 category["controls-category"] = {
-    colour: "#5939e6"
+    colour: "#4261B3"
 }
 
 
