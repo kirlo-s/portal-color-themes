@@ -50,37 +50,37 @@ component.controlsCategoryColor = "#2a90d0"
 const block = theme.blockStyles
 
 block["mod-block-style"] = {
-    colourPrimary: "#737373",
-    colourSecondary: "#404040",
-    colourTertiary: "#404040",
+    colourPrimary: "#222b2d",
+    colourSecondary: "#0a0a0a",
+    colourTertiary: "#161d1e",
     hat: "false"
 }
 
 block["rule-block-style"] = { 
-    colourPrimary: "#830083", 
-    colourSecondary: "#4F004F", 
-    colourTertiary: "#4F004F", 
+    colourPrimary: "#682177", 
+    colourSecondary: "#0a0a0a", 
+    colourTertiary: "#390f42", 
     hat: "false" 
 }
 
 block["condition-block-style"] = { 
-    colourPrimary: "#FAA918", 
+    colourPrimary: "#0a4f78", 
     colourSecondary: "#0a0a0a", 
     colourTertiary: "#003a5d", 
     hat: "false" 
 }
 
 block["value-block-style"] = { 
-    colourPrimary: "#005858", 
-    colourSecondary: "#004A4A", 
-    colourTertiary: "#004A4A", 
+    colourPrimary: "#0f5736", 
+    colourSecondary: "#0a0a0a", 
+    colourTertiary: "#033d23", 
     hat: "false" 
 }
 
 block["action-block-style"] = { 
-    colourPrimary: "#DD8F00", 
-    colourSecondary: "#AA6E00", 
-    colourTertiary: "#AA6E00", 
+    colourPrimary: "#847000", 
+    colourSecondary: "#0a0a0a", 
+    colourTertiary: "#493e00", 
     hat: "false" 
 }
 
@@ -92,9 +92,9 @@ block["comment-block-style"] = {
 }
 
 block["variable-block-style"] = { 
-    colourPrimary: "#780000", 
-    colourSecondary: "#6B0000", 
-    colourTertiary: "#6B0000", 
+    colourPrimary: "#C7243A", 
+    colourSecondary: "#931A2B", 
+    colourTertiary: "#931A2B", 
     hat: "false" 
 }
 
@@ -106,9 +106,9 @@ block["subroutine-block-style"] = {
 }
 
 block["control-block-style"] = { 
-    colourPrimary: "#1CB0F6", 
-    colourSecondary: "#168BC3", 
-    colourTertiary: "#168BC3", 
+    colourPrimary: "#351f95", 
+    colourSecondary: "#0a0a0a", 
+    colourTertiary: "#351f95", 
     hat: "false" 
 }
 
@@ -123,11 +123,11 @@ block["control-block-alt-style"] = {
 category = theme.categoryStyles
 
 category["rules-category"] = {
-    colour: "#830083"
+    colour: "#b45ac7"
 }
 
 category["values-category"] = {
-    colour: "#005858"
+    colour: "#1d8c58"
 }
 
 category["subroutines-category"] = {
@@ -135,11 +135,12 @@ category["subroutines-category"] = {
 }
 
 category["actions-category"] = {
-    colour: "#DD8F00"
+    colour: "#b7a11c"
 }
 category["controls-category"] = {
-    colour: "#1CB0F6"
+    colour: "#5939e6"
 }
+
 
 
 _Blockly.getMainWorkspace().setTheme(theme);
