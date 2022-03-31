@@ -20,7 +20,7 @@ component.replacementGlowOpacity = .5
 component.fieldBorderRectColor = "#a8a8a8"
 component.fieldTextColor = "#000000"
 component.fieldDropdownTextColor = "#ffffff"
-component.fieldDropDownHighlightColor = "#884EBA"
+component.fieldDropDownHighlightColor = "#682177"
 component.fieldDropDownTextHighlightColor = "#ffffff"
 component.fieldEditableTextHoverColor = "#439CFE"
 component.wsSearchHighlightCurrentColor = "#439CFE"
@@ -57,9 +57,9 @@ block["mod-block-style"] = {
 }
 
 block["rule-block-style"] = { 
-    colourPrimary: "#682177", 
+    colourPrimary: "#884EBA", 
     colourSecondary: "#0a0a0a", 
-    colourTertiary: "#390f42", 
+    colourTertiary: "#623886", 
     hat: "false" 
 }
 
@@ -123,7 +123,7 @@ block["control-block-alt-style"] = {
 category = theme.categoryStyles
 
 category["rules-category"] = {
-    colour: "#b45ac7"
+    colour: "#884EBA"
 }
 
 category["values-category"] = {
