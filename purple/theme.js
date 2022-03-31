@@ -78,9 +78,9 @@ block["value-block-style"] = {
 }
 
 block["action-block-style"] = { 
-    colourPrimary: "#ffaa1c", 
-    colourSecondary: "#CC8816", 
-    colourTertiary: "#CC8816", 
+    colourPrimary: "#F2A431", 
+    colourSecondary: "#BF8126", 
+    colourTertiary: "#BF8126", 
     hat: "false" 
 }
 
@@ -135,7 +135,7 @@ category["subroutines-category"] = {
 }
 
 category["actions-category"] = {
-    colour: "#ffaa1c"
+    colour: "#F2A431"
 }
 category["controls-category"] = {
     colour: "#0669BA"
