@@ -72,8 +72,8 @@ block["condition-block-style"] = {
 
 block["value-block-style"] = { 
     colourPrimary: "#057855", 
-    colourSecondary: "#024530", 
-    colourTertiary: "#024530", 
+    colourSecondary: "#036B4A", 
+    colourTertiary: "#036B4A", 
     hat: "false" 
 }
 
