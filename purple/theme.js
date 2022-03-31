@@ -20,7 +20,7 @@ component.replacementGlowOpacity = .5
 component.fieldBorderRectColor = "#a8a8a8"
 component.fieldTextColor = "#000000"
 component.fieldDropdownTextColor = "#ffffff"
-component.fieldDropDownHighlightColor = "#682177"
+component.fieldDropDownHighlightColor = "#884EBA"
 component.fieldDropDownTextHighlightColor = "#ffffff"
 component.fieldEditableTextHoverColor = "#439CFE"
 component.wsSearchHighlightCurrentColor = "#439CFE"
@@ -28,7 +28,7 @@ component.wsSearchHighlightGroupColor = "#ffffff"
 component.blockDisablePatternFillColor = "rgba(20,20,20,0.7)"
 component.blockDisablePatternStrokeColor = "#F92BA7"
 component.blockErrorPatternFillColor = "#141414"
-component.blockErrorPatternStrokeColo = "#aa2b3f"
+component.blockErrorPatternStrokeColor = "#F92BA7"
 component.blockErrorHighlightStrokeColor = "#ffe32b"
 component.blockDeprecatedPatternFillColor = "#383629"
 component.blockDeprecatedPatternStrokeColor = "#a6aa2b"
@@ -57,9 +57,9 @@ block["mod-block-style"] = {
 }
 
 block["rule-block-style"] = { 
-    colourPrimary: "#884EBA", 
+    colourPrimary: "#682177", 
     colourSecondary: "#0a0a0a", 
-    colourTertiary: "#623886", 
+    colourTertiary: "#390f42", 
     hat: "false" 
 }
 
@@ -123,7 +123,7 @@ block["control-block-alt-style"] = {
 category = theme.categoryStyles
 
 category["rules-category"] = {
-    colour: "#884EBA"
+    colour: "#b45ac7"
 }
 
 category["values-category"] = {
