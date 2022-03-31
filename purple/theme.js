@@ -71,14 +71,14 @@ block["condition-block-style"] = {
 }
 
 block["value-block-style"] = { 
-    colourPrimary: "#14591D", 
-    colourSecondary: "#08250C", 
-    colourTertiary: "#08250C", 
+    colourPrimary: "#6CCB78", 
+    colourSecondary: "#CCAD31", 
+    colourTertiary: "#CCAD31", 
     hat: "false" 
 }
 
 block["action-block-style"] = { 
-    colourPrimary: "#FFB100", 
+    colourPrimary: "#FFD93E", 
     colourSecondary: "#CC8D00", 
     colourTertiary: "#CC8D00", 
     hat: "false" 
@@ -92,9 +92,9 @@ block["comment-block-style"] = {
 }
 
 block["variable-block-style"] = { 
-    colourPrimary: "#C33321", 
-    colourSecondary: "#0a0a0a", 
-    colourTertiary: "#902518", 
+    colourPrimary: "#FF6C6C", 
+    colourSecondary: "#CC5656", 
+    colourTertiary: "#CC5656", 
     hat: "false" 
 }
 
@@ -106,9 +106,9 @@ block["subroutine-block-style"] = {
 }
 
 block["control-block-style"] = { 
-    colourPrimary: "#557DE6", 
-    colourSecondary: "#4261B3", 
-    colourTertiary: "#4261B3", 
+    colourPrimary: "#4D96FF", 
+    colourSecondary: "#3E78CC", 
+    colourTertiary: "#3E78CC", 
     hat: "false" 
 }
 
@@ -127,7 +127,7 @@ category["rules-category"] = {
 }
 
 category["values-category"] = {
-    colour: "#14591D"
+    colour: "#6CCB78"
 }
 
 category["subroutines-category"] = {
@@ -135,10 +135,10 @@ category["subroutines-category"] = {
 }
 
 category["actions-category"] = {
-    colour: "#FFB100"
+    colour: "#FFD93E0"
 }
 category["controls-category"] = {
-    colour: "#557DE6"
+    colour: "#4D96FF"
 }
 
 
