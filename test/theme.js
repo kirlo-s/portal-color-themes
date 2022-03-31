@@ -7,7 +7,7 @@ const component = theme.componentStyles
 const block = theme.blockStyles
 
 
-block["mod-block-style"] = { 
+block["variable-block-style"] = { 
     colourPrimary:"#ff0000",
     colourSecondary:"#00ff00",
     colourTertiary:"#0000ff",
