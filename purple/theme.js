@@ -57,9 +57,9 @@ block["mod-block-style"] = {
 }
 
 block["rule-block-style"] = { 
-    colourPrimary: "#A663CC", 
-    colourSecondary: "#7C4A99", 
-    colourTertiary: "#7C4A99", 
+    colourPrimary: "#682177", 
+    colourSecondary: "#0a0a0a", 
+    colourTertiary: "#390f42", 
     hat: "false" 
 }
 
@@ -78,9 +78,9 @@ block["value-block-style"] = {
 }
 
 block["action-block-style"] = { 
-    colourPrimary: "#FFB100", 
-    colourSecondary: "#CC8D00", 
-    colourTertiary: "#CC8D00", 
+    colourPrimary: "#847000", 
+    colourSecondary: "#0a0a0a", 
+    colourTertiary: "#493e00", 
     hat: "false" 
 }
 
@@ -106,9 +106,9 @@ block["subroutine-block-style"] = {
 }
 
 block["control-block-style"] = { 
-    colourPrimary: "#557DE6", 
-    colourSecondary: "#4261B3", 
-    colourTertiary: "#4261B3", 
+    colourPrimary: "#351f95", 
+    colourSecondary: "#0a0a0a", 
+    colourTertiary: "#351f95", 
     hat: "false" 
 }
 
@@ -122,12 +122,13 @@ block["control-block-alt-style"] = {
 
 category = theme.categoryStyles
 
-category["rules-category"] = {
-    colour: "#A663CC"
-}
 
 category["values-category"] = {
     colour: "#14591D"
+}
+
+category["rules-category"] = {
+    colour: "#b45ac7"
 }
 
 category["subroutines-category"] = {
@@ -135,11 +136,12 @@ category["subroutines-category"] = {
 }
 
 category["actions-category"] = {
-    colour: "#FFB100"
+    colour: "#b7a11c"
 }
 category["controls-category"] = {
-    colour: "#557DE6"
+    colour: "#5939e6"
 }
+
 
 
 _Blockly.getMainWorkspace().setTheme(theme);
