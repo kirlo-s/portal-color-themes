@@ -57,9 +57,9 @@ block["mod-block-style"] = {
 }
 
 block["rule-block-style"] = { 
-    colourPrimary: "#682177", 
+    colourPrimary: "#8e44ad", 
     colourSecondary: "#0a0a0a", 
-    colourTertiary: "#390f42", 
+    colourTertiary: "#833DA0", 
     hat: "false" 
 }
 
@@ -106,7 +106,7 @@ block["subroutine-block-style"] = {
 }
 
 block["control-block-style"] = { 
-    colourPrimary: "#351f95", 
+    colourPrimary: "#3498db", 
     colourSecondary: "#0a0a0a", 
     colourTertiary: "#351f95", 
     hat: "false" 
@@ -123,7 +123,7 @@ block["control-block-alt-style"] = {
 category = theme.categoryStyles
 
 category["rules-category"] = {
-    colour: "#b45ac7"
+    colour: "#8e44ad"
 }
 
 category["values-category"] = {
@@ -138,7 +138,7 @@ category["actions-category"] = {
     colour: "#b7a11c"
 }
 category["controls-category"] = {
-    colour: "#5939e6"
+    colour: "#3498db"
 }
 
 
