@@ -59,7 +59,7 @@ block["mod-block-style"] = {
 block["rule-block-style"] = { 
     colourPrimary: "#A663CC", 
     colourSecondary: "#7C4A99", 
-    colourTertiary: "#7C4A994", 
+    colourTertiary: "#7C4A99", 
     hat: "false" 
 }
 
