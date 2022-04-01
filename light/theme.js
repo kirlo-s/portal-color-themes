@@ -93,8 +93,8 @@ block["comment-block-style"] = {
 
 block["variable-block-style"] = { 
     colourPrimary: "#EA4335", 
-    colourSecondary: "#EA4335", 
-    colourTertiary: "#EA4335", 
+    colourSecondary: "#B63429", 
+    colourTertiary: "#B63429", 
     hat: "false" 
 }
 
