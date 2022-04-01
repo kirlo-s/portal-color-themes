@@ -1,7 +1,7 @@
 {
     "id": "portal-color-change-light",
     "name": "light portal theme",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "description": "light color theme",
     "author": "Kirlo_s",
     "main": "theme.js"
