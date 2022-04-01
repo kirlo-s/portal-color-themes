@@ -3,7 +3,7 @@ const theme = _Blockly.getMainWorkspace().getTheme();
 const component = theme.componentStyles
 
 component.workspaceBackgroundColour = "rgb(248, 249, 250,1)"
-component.toolboxBackgroundColour = "rgb(242, 242, 242,1)"
+component.toolboxBackgroundColour = "rgb(236, 236, 236,1)"
 component.toolboxForegroundColour = "#3C4043"
 component.flyoutBackgroundColour = ""
 component.flyoutForegroundColour = "#3C4043"
@@ -17,8 +17,8 @@ component.cursorColour = "#d0d0d0"
 component.selectedGlowColour = "#26ffdf"
 component.selectedGlowOpacity = 1
 component.replacementGlowOpacity = .5
-component.fieldBorderRectColor = "#a8a8a8"
-component.fieldTextColor = "#000000"
+component.fieldBorderRectColor = "#EBECEC"
+component.fieldTextColor = "#767676"
 component.fieldDropdownTextColor = "#ffffff"
 component.fieldDropDownHighlightColor = "#26ffdf"
 component.fieldDropDownTextHighlightColor = "#000000"
@@ -99,9 +99,9 @@ block["variable-block-style"] = {
 }
 
 block["subroutine-block-style"] = { 
-    colourPrimary: "#F97743", 
-    colourSecondary: "#C55E35", 
-    colourTertiary: "#C55E35", 
+    colourPrimary: "#EF5A29", 
+    colourSecondary: "#BC4620", 
+    colourTertiary: "#BC4620", 
     hat: "false" 
 }
 
@@ -131,7 +131,7 @@ category["values-category"] = {
 }
 
 category["subroutines-category"] = {
-    colour: "#bd6222"
+    colour: "#EF5A29"
 }
 
 category["actions-category"] = {
