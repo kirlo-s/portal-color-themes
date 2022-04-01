@@ -1,22 +1,15 @@
-//細かく決めたいならコメントアウトする
-toolBoxTexts = "#ffffff"
-
-
-
-
-
 const theme = _Blockly.getMainWorkspace().getTheme();
 
 const component = theme.componentStyles
 
-component.workspaceBackgroundColour = "rgba(0,0,0,0)"
-component.toolboxBackgroundColour = "rgba(30,39,40,0.8)"
-component.toolboxForegroundColour = toolBoxTexts
-component.flyoutBackgroundColour = "#0a0a0a"
-component.flyoutForegroundColour = toolBoxTexts
-component.flyoutOpacity = 1
-component.scrollbarColour = "#ffffff"
-component.scrollbarOpacity = 0.5
+component.workspaceBackgroundColour = "rgb(248, 249, 250,1)"
+component.toolboxBackgroundColour = "rgb(242, 242, 242,1)"
+component.toolboxForegroundColour = "#3C4043"
+component.flyoutBackgroundColour = ""
+component.flyoutForegroundColour = "#3C4043"
+component.flyoutOpacity = 0.2
+component.scrollbarColour = "#A8A8A8"
+component.scrollbarOpacity = 1
 component.insertionMarkerColour = "#26ffdf"
 component.insertionMarkerOpacity = .3
 component.markerColour = "#d0d0d0"
@@ -64,30 +57,30 @@ block["mod-block-style"] = {
 }
 
 block["rule-block-style"] = { 
-    colourPrimary: "#682177", 
-    colourSecondary: "#0a0a0a", 
-    colourTertiary: "#390f42", 
+    colourPrimary: "#8D42F4", 
+    colourSecondary: "#6F34C1", 
+    colourTertiary: "#6F34C1", 
     hat: "false" 
 }
 
 block["condition-block-style"] = { 
-    colourPrimary: "#0a4f78", 
-    colourSecondary: "#0a0a0a", 
-    colourTertiary: "#003a5d", 
+    colourPrimary: "#4F58AB", 
+    colourSecondary: "#373D77", 
+    colourTertiary: "#373D77", 
     hat: "false" 
 }
 
 block["value-block-style"] = { 
-    colourPrimary: "#0f5736", 
-    colourSecondary: "#0a0a0a", 
-    colourTertiary: "#033d23", 
+    colourPrimary: "#34A853", 
+    colourSecondary: "#34A853", 
+    colourTertiary: "#34A853", 
     hat: "false" 
 }
 
 block["action-block-style"] = { 
-    colourPrimary: "#847000", 
-    colourSecondary: "#0a0a0a", 
-    colourTertiary: "#493e00", 
+    colourPrimary: "#FBBC05", 
+    colourSecondary: "#C79503", 
+    colourTertiary: "#C79503", 
     hat: "false" 
 }
 
@@ -99,23 +92,23 @@ block["comment-block-style"] = {
 }
 
 block["variable-block-style"] = { 
-    colourPrimary: "#0f5736", 
-    colourSecondary: "#0a0a0a", 
-    colourTertiary: "#033d23", 
+    colourPrimary: "#EA4335", 
+    colourSecondary: "#EA4335", 
+    colourTertiary: "#EA4335", 
     hat: "false" 
 }
 
 block["subroutine-block-style"] = { 
-    colourPrimary: "#622c07", 
-    colourSecondary: "#0a0a0a", 
-    colourTertiary: "#461e02", 
+    colourPrimary: "#F97743", 
+    colourSecondary: "#C55E35", 
+    colourTertiary: "#C55E35", 
     hat: "false" 
 }
 
 block["control-block-style"] = { 
-    colourPrimary: "#4261B3", 
-    colourSecondary: "#2F4580", 
-    colourTertiary: "#2F4580", 
+    colourPrimary: "#4285F4", 
+    colourSecondary: "#3469C1", 
+    colourTertiary: "#3469C1", 
     hat: "false" 
 }
 
@@ -130,11 +123,11 @@ block["control-block-alt-style"] = {
 category = theme.categoryStyles
 
 category["rules-category"] = {
-    colour: "#b45ac7"
+    colour: "#8D42F4"
 }
 
 category["values-category"] = {
-    colour: "#1d8c58"
+    colour: "#34A853"
 }
 
 category["subroutines-category"] = {
@@ -142,10 +135,10 @@ category["subroutines-category"] = {
 }
 
 category["actions-category"] = {
-    colour: "#b7a11c"
+    colour: "#FBBC05"
 }
 category["controls-category"] = {
-    colour: "#4261B3"
+    colour: "#4285F4"
 }
 
 

@@ -1,8 +1,8 @@
 {
-    "id": "portal-color-change-template",
-    "name": "Portal theme template",
+    "id": "portal-color-change-light",
+    "name": "light portal theme",
     "version": "1.0.0",
-    "description": "template of color theme",
+    "description": "light color theme",
     "author": "Kirlo_s",
     "main": "theme.js"
 }
