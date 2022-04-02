@@ -78,8 +78,8 @@ block["value-block-style"] = {
 
 block["action-block-style"] = { 
     colourPrimary: "#FE9F01", 
-    colourSecondary: "#F19600", 
-    colourTertiary: "#F19600", 
+    colourSecondary: "#BE7600", 
+    colourTertiary: "#BE7600", 
     hat: "false" 
 }
 // before #FBBA00/#C79503
