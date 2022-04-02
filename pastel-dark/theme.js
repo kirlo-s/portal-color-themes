@@ -77,11 +77,12 @@ block["value-block-style"] = {
 }
 
 block["action-block-style"] = { 
-    colourPrimary: "#FBBA00", 
-    colourSecondary: "#C79503", 
-    colourTertiary: "#C79503", 
+    colourPrimary: "#FE9F01", 
+    colourSecondary: "#F19600", 
+    colourTertiary: "#F19600", 
     hat: "false" 
 }
+// before #FBBA00/#C79503
 
 block["comment-block-style"] = { 
     colourPrimary: "#141414", 
@@ -134,7 +135,7 @@ category["subroutines-category"] = {
 }
 
 category["actions-category"] = {
-    colour: "#FBBA00"
+    colour: "#FE9F01"
 }
 category["controls-category"] = {
     colour: "#4285F4"
