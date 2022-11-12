@@ -1,5 +1,5 @@
 (function () {
-    const plugin = BF2042Portal.Plugins.getPlugin("pastel-dark");
+    const plugin = BF2042Portal.Plugins.getPlugin("portal-color-change-pastel-dark");
 
     plugin.initializeWorkspace = function () {    
         const theme = _Blockly.getMainWorkspace().getTheme();
